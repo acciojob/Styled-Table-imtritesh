@@ -1,1 +1,16 @@
 /* your code */
+.mm{
+    border: 2px solid black;
+}
+
+.mm tr{
+    border: 2px solid black;
+}
+
+.mm th{
+border: 2px solid black;
+}
+
+.mm td{
+    border: 2px solid black;
+}
